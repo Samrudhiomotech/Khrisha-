@@ -8,3 +8,7 @@ matplotlib
 seaborn
 Pillow
 scipy
+streamlit
+pandas
+numpy
+plotly
