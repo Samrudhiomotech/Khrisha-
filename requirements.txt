@@ -1,0 +1,15 @@
+streamlit
+plotly==5.18.0
+pandas
+numpy
+opencv-python-headless
+Pillow
+streamlit
+numpy
+pandas
+Pillow
+opencv-python-headless
+matplotlib
+scipy
+scikit-learn
+scikit-image
